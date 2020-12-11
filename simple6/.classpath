@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="benchmarks/testcases/TestRace10.java|benchmarks/testcases/TestRace11.java|benchmarks/testcases/TestRace14.java|benchmarks/testcases/TestRace16.java|benchmarks/testcases/TestRace2.java|benchmarks/testcases/TestRace3.java|benchmarks/testcases/TestRace4.java|benchmarks/testcases/TestRace7.java|benchmarks/testcases/TestRace8.java|benchmarks/testcases/TestRace9.java|benchmarks/testcases/TestRace1.java|benchmarks/testcases/TestRace5.java|benchmarks/testcases/TestRace12.java|benchmarks/testcases/TestArray1.java" kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
