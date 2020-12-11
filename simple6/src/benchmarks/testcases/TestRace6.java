@@ -50,7 +50,7 @@ public class TestRace6 {
         synchronized (lock2) {
             x++;
         }
-        System.out.println("x = " + x);
+        System.out.println("x = " + x);  
         // x++;  
     }
 }
