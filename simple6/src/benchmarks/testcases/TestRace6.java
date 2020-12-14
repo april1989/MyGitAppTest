@@ -49,7 +49,7 @@ public class TestRace6 {
         // lock = lock2;   
         synchronized (lock2) { 
             x++; 
-        }
+        } 
         System.out.println("x = " + x);  
         x++;  
     }  
