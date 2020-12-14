@@ -1,3 +1,4 @@
 {
-  "which main class": "benchmarks/testcases/TestRace6"
+  "which main class": "benchmarks/testcases/TestRace6",
+  "exclusions": "java\\/applet\\/.*\njava\\/awt\\/.*\njava\\/beans\\/.*\njava\\/io\\/.*\njava\\/math\\/.*\njava\\/net\\/.*\njava\\/nio\\/.*\njava\\/rmi\\/.*\njava\\/security\\/.*\njava\\/sql\\/.*\njava\\/text\\/.*\n\njavax\\/.*\nsun\\/.*\nsunw\\/.*\ncom\\/sun\\/.*\ncom\\/ibm\\/.*\ncom\\/apple\\/.*\ncom\\/oracle\\/.*\napple\\/.*\norg\\/xml\\/.*\njdbm\\/.*\n\norg\\/apache\\/log4j\\/.*"
 }
