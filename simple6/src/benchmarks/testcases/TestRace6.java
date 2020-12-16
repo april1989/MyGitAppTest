@@ -51,6 +51,6 @@ public class TestRace6 {
             x++; 
         } 
         System.out.println("x = " + x);  
-        x++;    
+        x++;   
     }  
 }         
