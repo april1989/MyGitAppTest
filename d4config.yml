@@ -7,6 +7,7 @@ build:
       - name: Run  
         run: |
           cd simple6
+          mkdir bin
           javac -source 1.8 -target 1.8 src/benchmarks/testcases/TestRace6.java -d bin
 
 d4tasks: 
