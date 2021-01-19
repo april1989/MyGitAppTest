@@ -46,7 +46,7 @@ public class TestRace6 {
             }
         };
         t1.start();
-        synchronized (lock) { 
+        synchronized (lock2) { 
             x++; 
         } 
         System.out.println("x = " + x);  
