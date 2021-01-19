@@ -20,7 +20,7 @@ d4tasks:
       java/beans/.*,
       java/io/.*,
       java/math/.*,
-      java/net/.*,
+      java/net/.*, 
       java/nio/.*,
       java/rmi/.*,
       java/security/.*,
