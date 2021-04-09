@@ -26,5 +26,5 @@ d4tasks:
       java/security/.*,
       java/sql/.*,
       java/text/.*,
-      java/util/.*  
+      java/util/.*   
       
